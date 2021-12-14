@@ -881,14 +881,13 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
   .resume .resume-item {
     padding: 0 0 20px 20px;
     margin-top: -2px;
-    border-left: 2px solid #1f5297;
+    border-left: 2px solid #b636ff;
     position: relative;
   }
   .resume .resume-item h4 {
     line-height: 18px;
     font-size: 18px;
     font-weight: 600;
-    text-transform: uppercase;
     font-family: "Poppins", sans-serif;
     color: #050d18;
     margin-bottom: 10px;
@@ -919,6 +918,6 @@ span.single-timeline-horizontal.spacial-horizontal-line {width: 88px;}
     left: -9px;
     top: 0;
     background: #fff;
-    border: 2px solid #1f5297;
+    border: 2px solid #b636ff;
   }
   
